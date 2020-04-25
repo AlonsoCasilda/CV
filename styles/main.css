@@ -1459,11 +1459,13 @@ fieldset[disabled]
   overflow: hidden;
   position: relative;
   line-height: normal;
+  
 }
 
 .btn.btn-icon.btn-simple,
 .navbar .navbar-nav > a.btn.btn-icon.btn-simple {
   padding: 0;
+  
 }
 
 .btn.btn-icon.btn-sm,
@@ -1471,6 +1473,7 @@ fieldset[disabled]
   height: 1.875rem;
   min-width: 1.875rem;
   width: 1.875rem;
+  
 }
 
 .btn.btn-icon.btn-sm i.fa,
